@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="82713" started-at="2018-03-05T04:58:12Z" finished-at="2018-03-05T04:59:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="82713" started-at="2018-03-05T04:58:12Z" finished-at="2018-03-05T04:59:35Z">
+      <class name="com.zipCodeRangeResolver.test.ZipCodeRangeTest">
+        <test-method status="PASS" signature="testzipCodeRange()[pri:0, instance:null(com.zipCodeRangeResolver.test.ZipCodeRangeTest)]" name="testzipCodeRange" duration-ms="82689" started-at="2018-03-04T20:58:12Z" finished-at="2018-03-04T20:59:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testzipCodeRange -->
+      </class> <!-- com.zipCodeRangeResolver.test.ZipCodeRangeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
